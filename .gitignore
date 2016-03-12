@@ -1,0 +1,32 @@
+## Mac OS
+.DS_Store
+
+## Netbeans
+/nbproject/
+
+## PhpStom / IntelliJ
+.idea/*
+
+## Sublime
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+## Eclipse
+/bin/
+.classpath
+.project
+
+## Java
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.jar
+*.war
+*.ear
+# virtual machine crash logs
+hs_err_pid*
+
